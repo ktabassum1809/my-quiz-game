@@ -1,0 +1,657 @@
+[
+  {
+    "question": "In Germany, people are allowed to speak openly against the government because …",
+    "options": [
+      "freedom of religion applies here.",
+      "people pay taxes.",
+      "people have the right to vote.",
+      "freedom of speech applies here."
+    ],
+    "answer":  "freedom of speech applies here."
+  },
+  {
+    "question": "n Germany, parents can decide until their child is 14 years old whether he or she will attend school at …",
+    "options": ["attends religious education classes", "attends politics classes.", "attending history classes", "attends language classes."],
+    "answer": "attends religious education classes."
+  },
+  {
+    "question": "Germany is a constitutional state. What does that mean?",
+    "options": ["All residents and the state must abide by the laws.", "The state does not have to abide by the laws.", "Only Germans have to obey the laws.", "The courts make the laws"],
+    "answer": "All residents and the state must abide by the laws."
+  },
+  {
+    "question": "Which is the fundamental right in Germany?",
+    "options": ["Weapon ownership", "Law of the jungle", "Freedom of expression", "Vigilantism"],
+    "answer": "Freedom of expression"
+  },
+  {
+    "question": "Elections in Germany are free. What does that mean?",
+    "options": ["You are allowed to accept money if you vote for a specific candidate.", 
+    "The voter must not be influenced in the election or forced to vote in a particular way and must not suffer any disadvantages as a result of the election.", "Only people who have never been to prison are allowed to vote.", "All eligible voters must vote."],
+
+    "answer": "The voter must not be influenced in the election or forced to vote in a particular way and must not suffer any disadvantages as a result of the election."
+  },
+  {
+    "question": "What is the name of the German constitution?",
+    "options": ["People's Law", "Federal law", "German law", "Basic Law"],
+    "answer": "Basic Law"
+  },
+  {
+    "question": " Which right is one of the fundamental rights guaranteed by the German Constitution? The right to...",
+    "options": ["Freedom of belief and conscience.", "Entertainment.", "Work.", "Apartment."],
+    "answer": "Freedom of belief and conscience."
+  },
+  {
+    "question": " What is not in the Basic Law of Germany?",
+    "options": ["Everyone should have the same amount of money.", "Everyone is allowed to express their opinion.", "Human dignity is inviolable.", "Everyone is equal before the law."],
+    "answer": "Everyone should have the same amount of money."
+  },
+  {
+    "question": "Which fundamental right applies in Germany only to foreigners? The fundamental right to …",
+    "options": [
+      "protection of the family",
+      "human dignity",
+      "asylum",
+      "freedom of speech"
+    ],
+    "answer": "asylum"
+  },
+  {
+    "question": "What is compatible with the German Basic Law?",
+    "options": [
+      "corporal punishment",
+      "torture",
+      "death penalty",
+      "fine"
+    ],
+    "answer": "fine"
+  },
+  {
+    "question": "What is the name of the constitution of the Federal Republic of Germany?",
+    "options": [
+      "Basic Law",
+      "Federal Constitution",
+      "Code of Law",
+      "Constitutional Treaty"
+    ],
+    "answer": "Basic Law"
+  },
+  {
+    "question": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
+    "options": [
+      "Yes, if more than half of the members of the Bundestag are in favor.",
+      "Yes, but two-thirds of the members of the Bundestag must be in favor.",
+      "No, because freedom of the press is a fundamental right. It cannot be abolished.",
+      "No, because only the Bundesrat can abolish freedom of the press."
+    ],
+    "answer": "No, because freedom of the press is a fundamental right. It cannot be abolished."
+  },
+  {
+    "question": "In parliament, the term 'opposition' stands for …",
+    "options": [
+      "the ruling parties.",
+      "the faction with the most members.",
+      "all parties that were able to reach the 5% hurdle in the last election.",
+      "all members who do not belong to the ruling party/parties."
+    ],
+    "answer": "all members who do not belong to the ruling party/parties."
+  },
+  {
+    "question": "Freedom of speech in Germany means that I …",
+    "options": [
+      "can insult passers-by on the street.",
+      "can express my opinion in letters to the editor.",
+      "can wear Nazi symbols.",
+      "can only express my opinion as long as I do not contradict the government."
+    ],
+    "answer": "can express my opinion in letters to the editor."
+  },
+  {
+    "question": "What does the German Basic Law prohibit?",
+    "options": [
+      "military service",
+      "forced labor",
+      "free choice of profession",
+      "work abroad"
+    ],
+    "answer": "forced labor"
+  },
+  {
+    "question": "When is freedom of speech restricted in Germany?",
+    "options": [
+      "when publicly spreading false claims about individuals",
+      "when expressing opinions about the federal government",
+      "when discussing religions",
+      "when criticizing the state"
+    ],
+    "answer": "when publicly spreading false claims about individuals"
+  },
+  {
+    "question": "German laws prohibit …",
+    "options": [
+      "freedom of speech of the residents.",
+      "petitions from citizens.",
+      "freedom of assembly of the residents.",
+      "unequal treatment of citizens by the state."
+    ],
+    "answer": "unequal treatment of citizens by the state."
+  },
+  {
+    "question": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "options": [
+      "the inviolability of human dignity",
+      "the right to life",
+      "freedom of religion",
+      "freedom of speech"
+    ],
+    "answer": "the inviolability of human dignity"
+  },
+  {
+    "question": "What is meant by the right of 'freedom of movement' in Germany?",
+    "options": [
+      "You can choose your place of residence.",
+      "You can change your profession.",
+      "You can choose a different religion.",
+      "You can move in public only lightly dressed."
+    ],
+    "answer": "You can choose your place of residence."
+  },
+  {
+    "question": "A party in Germany pursues the goal of establishing a dictatorship. It is then …",
+    "options": [
+      "tolerant.",
+      "oriented towards the rule of law.",
+      "law-abiding.",
+      "unconstitutional."
+    ],
+    "answer": "unconstitutional."
+  },
+  {
+    "question": "What is the coat of arms of the Federal Republic of Germany?",
+    "options": [
+      "A black eagle",
+      "A red lion",
+      "A golden bear",
+      "A blue shield"
+    ],
+    "answer": "A black eagle"
+  },
+  
+    {
+      "question": "What type of state is Germany?",
+      "options": [
+        "Monarchy",
+        "Dictatorship",
+        "Republic",
+        "Principality"
+      ],
+      "answer": "Republic"
+    },
+    {
+      "question": "In Germany, most working people are …",
+      "options": [
+        "employed in small family businesses.",
+        "volunteers for a federal state.",
+        "self-employed with their own company.",
+        "employed by a company or authority."
+      ],
+      "answer": "employed by a company or authority."
+    },
+    {
+      "question": "How many federal states does the Federal Republic of Germany have?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answer": "16"
+    },
+    {
+      "question": "Which is not a federal state of the Federal Republic of Germany?",
+      "options": [
+        "Alsace-Lorraine",
+        "North Rhine-Westphalia",
+        "Mecklenburg-Western Pomerania",
+        "Saxony-Anhalt"
+      ],
+      "answer": "Alsace-Lorraine"
+    },
+    {
+      "question": "Germany is …",
+      "options": [
+        "a communist republic.",
+        "a democratic and social federal state.",
+        "a capitalist and social monarchy.",
+        "a social and socialist federal state."
+      ],
+      "answer": "a democratic and social federal state."
+    },
+    {
+      "question": "Germany is …",
+      "options": [
+        "a socialist state.",
+        "a federal state.",
+        "a dictatorship.",
+        "a monarchy."
+      ],
+      "answer": "a federal state."
+    },
+    {
+      "question": "Who elects the members of the Bundestag in Germany?",
+      "options": [
+        "the military",
+        "the economy",
+        "the eligible voters",
+        "the administration"
+      ],
+      "answer": "the eligible voters"
+    },
+    {
+      "question": "Which animal is the coat of arms of the Federal Republic of Germany?",
+      "options": [
+        "Lion",
+        "Eagle",
+        "Bear",
+        "Horse"
+      ],
+      "answer": "Eagle"
+    },
+    {
+      "question": "What is not a characteristic of our democracy?",
+      "options": [
+        "regular elections",
+        "press censorship",
+        "freedom of speech",
+        "various parties"
+      ],
+      "answer": "press censorship"
+    },
+      {
+        "question": "The cooperation of parties to form a government in Germany is called …",
+        "options": [
+          "unity.",
+          "coalition.",
+          "ministry.",
+          "faction."
+        ],
+        "answer": "coalition."
+      },
+      {
+        "question": "What is not a state power in Germany?",
+        "options": [
+          "Legislation",
+          "Government",
+          "Press",
+          "Judiciary"
+        ],
+        "answer": "Press"
+      },
+      {
+        "question": "Which statement is correct? In Germany …",
+        "options": [
+          "state and religious communities are separated from each other.",
+          "religious communities form the state.",
+          "the state is dependent on religious communities.",
+          "state and religious communities form a unity."
+        ],
+        "answer": "state and religious communities are separated from each other."
+      },
+      {
+        "question": "What is Germany not?",
+        "options": [
+          "a democracy",
+          "a constitutional state",
+          "a monarchy",
+          "a welfare state"
+        ],
+        "answer": "a monarchy"
+      },
+      {
+        "question": "How does the German state finance social security?",
+        "options": [
+          "church tax",
+          "social contributions",
+          "donations",
+          "membership fees"
+        ],
+        "answer": "social contributions"
+      },
+      {
+        "question": "Which measure creates social security in Germany?",
+        "options": [
+          "health insurance",
+          "car insurance",
+          "building insurance",
+          "liability insurance"
+        ],
+        "answer": "health insurance"
+      },
+      {
+        "question": "What are the heads of government of most federal states in Germany called?",
+        "options": [
+          "First Minister",
+          "Prime Minister",
+          "Senator",
+          "Minister President"
+        ],
+        "answer": "Minister President"
+      },
+      {
+        "question": "The Federal Republic of Germany is a democratic and social …",
+        "options": [
+          "confederation of states.",
+          "federal state.",
+          "federation of states.",
+          "central state."
+        ],
+        "answer": "federal state."
+      },
+      {
+        "question": "What does every German federal state have?",
+        "options": [
+          "its own foreign minister",
+          "its own currency",
+          "its own army",
+          "its own government"
+        ],
+        "answer": "its own government"
+      },
+      {
+        "question": "With which words does the German national anthem begin?",
+        "options": [
+          "Peoples, hear the signals …",
+          "Unity and justice and freedom …",
+          "Joy, beautiful spark of the gods …",
+          "Germany united fatherland …"
+        ],
+        "answer": "Unity and justice and freedom …"
+      },
+      
+        {
+          "question": "Why are there more than one party in a democracy?",
+          "options": [
+            "because the different opinions of the citizens are represented",
+            "to limit bribery in politics",
+            "to prevent political demonstrations",
+            "to stimulate economic competition"
+          ],
+          "answer": "because the different opinions of the citizens are represented"
+        },
+        {
+          "question": "Who passes a new law in Germany?",
+          "options": [
+            "the government",
+            "the parliament",
+            "the courts",
+            "the police"
+          ],
+          "answer": "the parliament"
+        },
+        {
+          "question": "When can a party be banned in Germany?",
+          "options": [
+            "if their election campaign is too expensive",
+            "if they fight against the constitution",
+            "if they criticize the head of state",
+            "if their program proposes a new direction"
+          ],
+          "answer": "if they fight against the constitution"
+        },
+        {
+          "question": "Who cannot be directly elected by citizens in Germany?",
+          "options": [
+            "Members of the EU Parliament",
+            "The Federal President",
+            "State parliament members",
+            "Members of the Bundestag"
+          ],
+          "answer": "The Federal President"
+        },
+        {
+          "question": "To which insurance does long-term care insurance belong?",
+          "options": [
+            "social insurance",
+            "accident insurance",
+            "household insurance",
+            "liability and fire insurance"
+          ],
+          "answer": "social insurance"
+        },
+        {
+          "question": "The German state has many tasks. Which task is included?",
+          "options": [
+            "It builds roads and schools.",
+            "It sells food and clothing.",
+            "It provides all residents with newspapers free of charge.",
+            "It produces cars and buses."
+          ],
+          "answer": "It builds roads and schools."
+        },
+        {
+          "question": "The German state has many tasks. Which task is not included?",
+          "options": [
+            "It pays for vacation trips for all citizens.",
+            "It pays child benefits.",
+            "It supports museums.",
+            "It promotes athletes."
+          ],
+          "answer": "It pays for vacation trips for all citizens."
+        },
+        {
+          "question": "Which body is not one of Germany's constitutional bodies?",
+          "options": [
+            "the Bundesrat",
+            "the Federal President",
+            "the citizens' assembly",
+            "the government"
+          ],
+          "answer": "the citizens' assembly"
+        },
+        {
+          "question": "Who determines education policy in Germany?",
+          "options": [
+            "the teachers",
+            "the federal states",
+            "the Ministry of Family Affairs",
+            "the universities"
+          ],
+          "answer": "the federal states"
+        },
+        {
+          "question": "The economic system in Germany is called …",
+          "options": [
+            "free central economy.",
+            "social market economy.",
+            "controlled central economy.",
+            "planned economy."
+          ],
+          "answer": "social market economy."
+        },
+        {
+          "question": "A democratic constitutional state does not include …",
+          "options": [
+            "people being able to express criticism of the government.",
+            "citizens being allowed to demonstrate peacefully.",
+            "people being arrested by a private police force without reason.",
+            "someone committing a crime and being arrested for it."
+          ],
+          "answer": "people being arrested by a private police force without reason."
+        },
+        {
+          "question": "What does 'popular sovereignty' mean? All state power emanates from the …",
+          "options": [
+            "people.",
+            "Bundestag.",
+            "Prussian king.",
+            "Federal Constitutional Court."
+          ],
+          "answer": "people."
+        },
+        {
+          "question": "What does 'constitutional state' mean in Germany?",
+          "options": [
+            "The state is always right.",
+            "There are only right-wing parties.",
+            "The citizens decide on laws.",
+            "The state must adhere to the laws."
+          ],
+          "answer": "The state must adhere to the laws."
+        },
+        {
+          "question": "What is not a state power in Germany?",
+          "options": [
+            "Legislative",
+            "Judiciary",
+            "Executive",
+            "Directive"
+          ],
+          "answer": "Directive"
+        },
+        
+          {
+            "question": "Which office is part of the municipal administration in Germany?",
+            "options": [
+              "parish office",
+              "public order office",
+              "tax office",
+              "foreign office"
+            ],
+            "answer": "public order office"
+          },
+          {
+            "question": "Who is usually elected as the President of the German Bundestag?",
+            "options": [
+              "the oldest member of parliament",
+              "the Minister President of the largest federal state",
+              "a former Chancellor",
+              "a member of the strongest parliamentary group"
+            ],
+            "answer": "a member of the strongest parliamentary group"
+          },
+          {
+            "question": "Who appoints the ministers of the federal government in Germany?",
+            "options": [
+              "the President of the Federal Constitutional Court",
+              "the Federal President",
+              "the President of the Bundesrat",
+              "the President of the Bundestag"
+            ],
+            "answer": "the Federal President"
+          },
+          {
+            "question": "How many years ago was there a Jewish community in the area of today's Germany for the first time?",
+            "options": [
+              "about 300 years ago",
+              "about 700 years ago",
+              "about 1150 years ago",
+              "about 1700 years ago"
+            ],
+            "answer": "about 1700 years ago"
+          },
+          {
+            "question": "In Germany, the Bundestag and the Bundesrat belong to the …",
+            "options": [
+              "executive.",
+              "legislative.",
+              "directive.",
+              "judiciary."
+            ],
+            "answer": "legislative."
+          },
+          {
+            "question": "What does 'popular sovereignty' mean?",
+            "options": [
+              "The queen/king rules over the people.",
+              "The Federal Constitutional Court stands above the constitution.",
+              "The interest groups exercise sovereignty together with the government.",
+              "State power emanates from the people."
+            ],
+            "answer": "State power emanates from the people."
+          },
+          {
+            "question": "When the parliament of a German federal state is elected, it is called …",
+            "options": [
+              "municipal election",
+              "state parliament election",
+              "European election",
+              "federal election"
+            ],
+            "answer": "state parliament election"
+          },
+          {
+            "question": "What is not part of the executive in Germany?",
+            "options": [
+              "the police",
+              "the courts",
+              "the tax office",
+              "the ministries"
+            ],
+            "answer": "the courts"
+          },
+          {
+            "question": "The Federal Republic of Germany is today divided into …",
+            "options": [
+              "four occupation zones.",
+              "an eastern state and a western state.",
+              "16 cantons.",
+              "federal, state, and municipal levels."
+            ],
+            "answer": "federal, state, and municipal levels."
+          },
+          {
+            "question": "It is not the task of the German Bundestag to …",
+            "options": [
+              "draft laws.",
+              "control the federal government.",
+              "elect the Chancellor.",
+              "form the federal cabinet."
+            ],
+            "answer": "form the federal cabinet."
+          },
+          {
+            "question": "Which cities have the largest Jewish communities in Germany?",
+            "options": [
+              "Berlin and Munich",
+              "Hamburg and Essen",
+              "Nuremberg and Stuttgart",
+              "Worms and Speyer"
+            ],
+            "answer": "Berlin and Munich"
+          },
+          {
+            "question": "What is primarily a task of the federal states in Germany?",
+            "options": [
+              "defense policy",
+              "foreign policy",
+              "economic policy",
+              "education policy"
+            ],
+            "answer": "education policy"
+          },
+          {
+            "question": "Why does the state control the school system in Germany?",
+            "options": [
+              "because there are only state schools in Germany",
+              "because all students must have a school leaving certificate",
+              "because there are different schools in the federal states",
+              "because it is its task according to the Basic Law"
+            ],
+            "answer": "because it is its task according to the Basic Law"
+          },
+          {
+            "question": "The Federal Republic of Germany has a three-tier administrative structure. What is the lowest political level called?",
+            "options": [
+              "city councils",
+              "district councils",
+              "municipalities",
+              "district offices"
+            ],
+            "answer": "municipalities"
+          }
+        
+
+      
+    
+  
+]
